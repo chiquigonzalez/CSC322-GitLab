@@ -1,0 +1,35 @@
+mkdir GitLab
+cd GitLab
+nano HelloWorld.c
+git init
+git add HelloWorld.c
+git commit -m "Initial commit"
+git remote add origin https://github.com/chiquigonzalez/CSC322-GitLab.git
+git branch -M main
+git push -u origin main
+nano HelloWorld.c
+git add HelloWorld.c
+git commit -m "Changed to Hello Crool World"
+git push
+git branch Happy
+git checkout Happy
+git push -u origin Happy
+nano HelloWorld.c
+git add HelloWorld.c
+git commit -m "Changed to Hello Happy World"
+git push
+git checkout main
+nano HelloWorld.c
+git add HelloWorld.c
+git commit -m "Changed to Hello Very Crool World"
+git push
+git merge Happy
+nano HelloWorld.c
+git add HelloWorld.c
+git commit -m "Merged Happy branch - Hello Very Happy World"
+git push
+nano HelloWorld.c
+git add HelloWorld.c
+git commit -m "Changed to Hello Crazy World"
+git push
+git log --all --graph

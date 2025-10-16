@@ -1,0 +1,36 @@
+* commit 79920b6b38058ec4f52ace08a01b47d5f590d73c
+| Author: claudiagonzalez <cmg9378@miami.edu>
+| Date:   Wed Oct 15 22:29:45 2025 -0400
+| 
+|     Changed to Hello Crazy World
+|   
+*   commit 749d5d07bda072fcc1aa7f7c131808b1a76a491f
+|\  Merge: fab90df 4010935
+| | Author: claudiagonzalez <cmg9378@miami.edu>
+| | Date:   Wed Oct 15 22:28:59 2025 -0400
+| | 
+| |     Merged Happy branch - Hello Very Happy World
+| | 
+| * commit 40109350125c93e73875b2fb4aac15165a44fafd
+| | Author: claudiagonzalez <cmg9378@miami.edu>
+| | Date:   Wed Oct 15 22:21:39 2025 -0400
+| | 
+| |     Changed to Hello Happy World
+| | 
+* | commit fab90df415e6ad24329bec77b9158b23087e3544
+|/  Author: claudiagonzalez <cmg9378@miami.edu>
+|   Date:   Wed Oct 15 22:24:32 2025 -0400
+|   
+|       Changed to Hello Very Crool World
+| 
+* commit 70c9e078970118b7103b4a6b7a1c680b1bbbfff0
+| Author: claudiagonzalez <cmg9378@miami.edu>
+| Date:   Wed Oct 15 22:19:19 2025 -0400
+| 
+|     Changed to Hello Crool World
+| 
+* commit 90b4e0fc2b344ca26599a3f2688cf1fea2a89417
+  Author: claudiagonzalez <cmg9378@miami.edu>
+  Date:   Wed Oct 15 22:17:08 2025 -0400
+  
+      Initial commit
